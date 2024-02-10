@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Oheneba Berko</h1>
-<h3 align="center">A senior in college majoring in Computer Science with a double minor in math and entrepreneurship.</h3>
+<h1 align="center">Hello everyone👋, I'm Oheneba Berko</h1>
+<h3 align="center" An ambitious Computer Science undergrad from the University of Richmond, minoring in Entrepreneurship and Mathematics. Leveraging a diverse background in Software Engineering and Business Consulting, I expertly meld technical know-how with an entrepreneurial perspective to drive solution development. My core mission is to utilize tech-driven innovation for societal transformation and individual growth. Committed to making a difference, I aim to use my skills to effect positive changes and influence lives throughout my academic and professional journey.</h3>
+
+(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966")
 
 - 🔭 I’m currently working on [tradeX-Stock-Trader](https://github.com/Orphy123/tradeX-Stock-Trader)
 
-- 🌱 I’m currently learning **WebRTC and Networks**
+- 🌱 I’m currently learning **WebRTC to build a video conferencing website**
 
 - 👯 I’m looking to collaborate on [Sports With Me](https://github.com/Orphy123/Sports-With-Me)
 
-- 👨‍💻 All of my projects are available at [https://ohenebaportfolio.netlify.app/](https://ohenebaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://ohenebaportfolio.netlify.app/)
 
 - 💬 Ask me about **React, Android, Python**
 
 - 📫 How to reach me **shiekwaku100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12FhPfz9vzcZTz3-Vxob8HuQRHz-DAv4h/view](https://drive.google.com/file/d/12FhPfz9vzcZTz3-Vxob8HuQRHz-DAv4h/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12FhPfz9vzcZTz3-Vxob8HuQRHz-DAv4h/view)
 
 - ⚡ Fun fact **I have a deep appreciation for Renaissance art, and I enjoy exploring and traveling to new destinations**
 
@@ -30,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orphy123&show_icons=true&locale=en" alt="orphy123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orphy123&" alt="orphy123" /></p>
+
