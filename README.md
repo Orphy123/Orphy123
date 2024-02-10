@@ -1,5 +1,3 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://ohenebaportfolio.netlify.app/)
-
 <h1 align="center">Hello everyone👋, I'm Oheneba Berko</h1>
 <h4 align="center"> An ambitious Computer Science undergrad from the University of Richmond, minoring in Entrepreneurship and Mathematics. Leveraging a diverse background in Software Engineering and Business Consulting, I expertly meld technical know-how with an entrepreneurial perspective to drive solution development.</h4>
 
