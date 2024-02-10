@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone👋, I'm Oheneba Berko</h1>
 <h4 align="center"> An ambitious Computer Science undergrad from the University of Richmond, minoring in Entrepreneurship and Mathematics. Leveraging a diverse background in Software Engineering and Business Consulting, I expertly meld technical know-how with an entrepreneurial perspective to drive solution development.</h4>
 
-(img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs")
+(img align="right" alt="Coding" width="400" src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY")
 
 
 
