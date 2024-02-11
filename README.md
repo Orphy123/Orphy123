@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 🔭 I’m currently working on [tradeX-Stock-Trader](https://github.com/Orphy123/tradeX-Stock-Trader)
 
