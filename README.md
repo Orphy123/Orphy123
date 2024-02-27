@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone👋, I'm Oheneba Berko</h1>
-<h4 align="center"> An ambitious Computer Science undergrad from the University of Richmond, minoring in Entrepreneurship and Mathematics. Leveraging a diverse background in Software Engineering and Business Consulting, I expertly meld technical know-how with an entrepreneurial perspective to drive solution development.</h4>
+<h3 align="center"> An ambitious Computer Science undergrad from the University of Richmond, minoring in Entrepreneurship and Mathematics. Leveraging a diverse background in Software Engineering and Business Consulting, I expertly meld technical know-how with an entrepreneurial perspective to drive solution development.</h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
