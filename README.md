@@ -1,6 +1,11 @@
 <h1 align="center">Hello everyone👋, I'm Oheneba Berko</h1>
-<h4 align="center"> An ambitious Computer Science undergrad from the University of Richmond, minoring in Entrepreneurship and Mathematics. Leveraging a diverse background in Software Engineering and Business Consulting, I expertly meld technical know-how with an entrepreneurial perspective to drive solution development.</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=700&color=37BCAE&center=true&vCenter=true&multiline=true&width=850&height=250&lines=An+ambitious+Computer+Science+undergrad+from+the+University+of+Richmond%2C+minoring+in+Entrepreneurship+and+Mathematics.;Leveraging+a+diverse+background+in+Software+Engineering+and+Business+Consulting%2C;I+expertly+meld+technical+know-how+with+an+entrepreneurial+perspective+to+drive+solution+development." alt="Typing SVG" />
+</a>
 
+
+<!-- <h4 align="center"> An ambitious Computer Science undergrad from the University of Richmond, minoring in Entrepreneurship and Mathematics. Leveraging a diverse background in Software Engineering and Business Consulting, I expertly meld technical know-how with an entrepreneurial perspective to drive solution development.</h3>
+ -->
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
