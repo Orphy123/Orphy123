@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone👋, I'm Oheneba Berko</h1>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=37BCAE&center=false&vCenter=true&multiline=true&width=1000&height=200&lines=An+ambitious+Computer+Science+undergrad+from+the+University+of+Richmond;minoring+in+Entrepreneurship+and+Mathematics.;Leveraging+a+diverse+background+in+Software+Engineering;and+Business+Consulting%2C;I+expertly+meld+technical+know-how+with+an+entrepreneurial+perspective;to+drive+solution+development." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=37BCAE&center=false&vCenter=true&multiline=true&width=1000&height=200&lines=An+ambitious+Computer+Science+undergrad+from+the+University+of+Richmond;minoring+in+Entrepreneurship+and+Mathematics.;Leveraging+a+diverse+background+in+Software+Engineering+and;Business+Consulting%2C;I+expertly+meld+technical+know-how+with+an+entrepreneurial+perspective;to+drive+solution+development." alt="Typing SVG" />
 </a>
 
 
