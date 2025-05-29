@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on [OpenTrellis Discussion Board](https://github.com/Orphy123/OpenTrellis-Discussion-Board)
 
-- 🌱 I’m currently learning **WebRTC to build a video conferencing website**
-
 - 👯 I’m looking to collaborate on [Sports With Me](https://github.com/Orphy123/Sports-With-Me)
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://ohenebaportfolio.netlify.app/)
