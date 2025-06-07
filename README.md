@@ -1,9 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Oheneba Berko</h1>
-<h3 align="center">Software Engineer • Math Educator • Entrepreneur</h3>
+<h3 align="center">Software Engineer • Educator • Entrepreneur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F38020&width=1000&lines=Code+%7C+Creativity+%7C+Community;Building+clean%2C+scalable+software+solutions;Mentoring+the+next+generation+of+coders;Bridging+tech+and+education+to+solve+real‑world+problems" alt="Typing intro" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=F38020&center=true&vCenter=true&multiline=true&width=1000&lines=Code+%7C+Creativity+%7C+Community;Building+clean%2C+scalable+software+solutions;Mentoring+the+next+generation+of+coders;Bridging+tech+and+education+to+solve+real-world+problems"
+    alt="Typing intro"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Orphy123">
@@ -49,7 +53,7 @@
 </p>
 
 ### 💬 Get in touch
-- **Ask me about:** React • Node.js • Python • LSTM models • Math pedagogy  
+- **Ask me about:** React • Node.js • Python • Machine Learning
 - **Reach me at:** [shiekwaku100@gmail.com](mailto:shiekwaku100@gmail.com)  
 - **Resume:** [View my resume](https://drive.google.com/file/d/12FhPfz9vzcZTz3-Vxob8HuQRHz-DAv4h/view)
 
