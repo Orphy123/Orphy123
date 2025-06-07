@@ -63,5 +63,5 @@
 > *“Transforming complex ideas into intuitive products — from ML‑powered speech recognition to real‑time logistics platforms — while mentoring the next generation of coders.”*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="200" alt="Coding gif" />
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="400" alt="Coding gif" />
 </p>
