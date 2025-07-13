@@ -47,12 +47,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orphy123&show_icons=true&include_all_commits=true" alt="Oheneba's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orphy123&layout=compact" alt="Top languages" />
-</p>
-
 ### 💬 Get in touch
 - **Ask me about:** React • Node.js • Python • Machine Learning
 - **Reach me at:** [shiekwaku100@gmail.com](mailto:shiekwaku100@gmail.com)  
